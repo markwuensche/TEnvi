@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="docs/logo.png" width="180">
+</p>
 # TEnvi: Tunnel Environment Stimulus Generator
 
 TEnvi is a Python toolkit for building controlled **tunnel-motion visual stimuli** for perception and psychophysics experiments. It includes:

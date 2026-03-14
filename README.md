@@ -19,6 +19,10 @@ TEnvi is a Python toolkit for building controlled **tunnel-motion visual stimuli
 
 Exports are written as MP4 videos and accompanied by per-stimulus settings JSON files.
 
+<p align="center">
+  <img src="docs/gui.png" width="900">
+</p>
+
 ## Features
 
 - **Interactive GUI** (`Stimulus Creation/GUI.py`)

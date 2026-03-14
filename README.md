@@ -11,7 +11,7 @@
 </tr>
 </table>
 
-TEnvi is a Python toolkit for building controlled **tunnel-motion visual stimuli** for perception and psychophysics experiments. It includes:
+TEnvi is a Python toolkit for building controlled **tunnel-motion visual stimuli** for spatial perception and experience experiments. It includes:
 
 - a GUI for interactive tuning and one-off exports,
 - a batch exporter for reproducible stimulus sets,

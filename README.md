@@ -1,4 +1,4 @@
-# Time and Space Stimulus Toolkit
+# Tunnel Environment Stimulus Toolkit
 
 A set of Python tools for generating tunnel-style visual stimuli for perceptual experiments. The toolkit provides a Qt GUI for interactive previews, batch and interactive command-line exporters, and a shared rendering pipeline that produces consistent MP4 outputs with embedded silent audio.
 

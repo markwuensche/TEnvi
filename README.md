@@ -52,8 +52,7 @@ TEnvi/
 │   ├── GUI.py
 │   ├── batch_exporter.py
 │   ├── interactive_protocol.py
-│   ├── tunnel_module.py
-│   └── SMOOTHING_NOTES.md
+│   └── tunnel_module.py
 ├── CITATION.cff
 ├── LICENSE
 └── README.md

@@ -3,7 +3,7 @@
 <td>
 
 # TEnvi: Tunnel Environment Stimulus Generator
-
+[![DOI](https://zenodo.org/badge/1181692810.svg)](https://doi.org/10.5281/zenodo.19049759)
 </td>
 <td align="right">
 <img src="docs/logo.png" width="110">
